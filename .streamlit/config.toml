@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#C4A35A"
+backgroundColor = "#F5EFE6"
+secondaryBackgroundColor = "#FBF7EE"
+textColor = "#5C3A21"
+font = "serif"
+
+[server]
+headless = true
+
+[client]
+# 隐藏 Streamlit 开发工具栏（Deploy 按钮 / 汉堡菜单），避免出现在截图与演示视频里
+toolbarMode = "minimal"
